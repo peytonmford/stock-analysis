@@ -5,5 +5,8 @@ The purpose of this analysis was to compare stocks from 2017 and 2018. Comparing
 
 ## Results
 The results of this analysis was comparing the Total Volumes and Return of each stock ticker. When running the refactored code, you can see that just a year difference had drastic total volume and return values. When refactoring the code, we decided to use an Index to reference the tickers; with adding the Index, we can see that the time it took to run the code with much faster with refactoring. 
+#### Original Stock Analysis Run Time
+![Orginal_VBA_2017](Resources/Orginal_VBA_2017.png)
 
-![Orginal_VBA_2017](/./Orginal_VBA_2017.png)
+#### Refactored Stock Analysis Run Time
+![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
